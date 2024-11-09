@@ -1,13 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-import HomeLayout from './components/layout';
+import logo from "./logo.svg";
+import "./App.css";
+import HomeLayout from "./components/layout";
+
 
 function App() {
   return (
-   <>
-   <HomeLayout/>
-   </>
-   )
+    <>
+      <HomeLayout />
+     
+    </>
+  );
 }
 
 export default App;
